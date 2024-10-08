@@ -1,0 +1,8 @@
+#!/Users/jubaidatasnim/GenAi/Chatbot_Implementation_with_GPT-4o_Mini_&_Streamlit/myenv/bin/python3.12
+# -*- coding: utf-8 -*-
+import re
+import sys
+from openai.cli import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
