@@ -1,9 +1,5 @@
 # OpenAI API ChatBot GPT-4o with Streamlit
 
-## Google Slide Link
-
-[Google Slide](./assets/Mini_Chatbot_Streamlit.pptx)
-
 ## Project Overview:
 
 ### Building the ChatBot
@@ -55,3 +51,7 @@ Tiktoken: tiktoken — for counting tokens.
 ![My Project Screenshot](assets/screenshot3.png)
 
 ![My Project Screenshot](assets/screenshot4.png)
+
+## To learn more:
+
+[Google Slide](./assets/Mini_Chatbot_Streamlit.pptx)
