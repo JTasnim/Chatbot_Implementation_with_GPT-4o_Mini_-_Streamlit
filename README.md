@@ -49,6 +49,9 @@ Tiktoken: tiktoken — for counting tokens.
 ## Screenshot of execution results:
 
 ![My Project Screenshot](assets/screenshot1.png)
+
 ![My Project Screenshot](assets/screenshot2.png)
+
 ![My Project Screenshot](assets/screenshot3.png)
+
 ![My Project Screenshot](assets/screenshot4.png)
