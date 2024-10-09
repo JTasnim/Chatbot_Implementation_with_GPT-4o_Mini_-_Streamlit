@@ -1,5 +1,9 @@
 # OpenAI API ChatBot GPT-4o with Streamlit
 
+## Google Slide Link
+
+[Google Slide](./assets/Mini_Chatbot_Streamlit.pptx)
+
 ## Project Overview:
 
 ### Building the ChatBot
@@ -34,3 +38,6 @@ Step 2: Install the necessary packages.
 ## Screenshot of execution results:
 
 ![My Project Screenshot](assets/screenshot1.png)
+![My Project Screenshot](assets/screenshot2.png)
+![My Project Screenshot](assets/screenshot3.png)
+![My Project Screenshot](assets/screenshot4.png)
